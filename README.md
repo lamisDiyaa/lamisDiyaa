@@ -1,7 +1,7 @@
- Hi there 👋, i'm lamis diyaa
+ Hi there 👋, i'm lamis diyaa <hr>
 
-
-Frontend Developer
+<div style= text-align: center>  Frontend Developer </div>
+                                                 
 
 
 -🔭 I’m currently working on ...React Ecommerce Project
