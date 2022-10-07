@@ -1,6 +1,7 @@
- **Hi there 👋, i'm lamis diyaa** <hr>
+ <div align="center">Hi there 👋, i'm lamis diyaa</div> 
+ <hr>
 
-   **Frontend Developer**
+<div  align="center">Frontend Developer</div>
                                                  
 
 ▫️ 🔭 I’m currently working on ...React Ecommerce Project
