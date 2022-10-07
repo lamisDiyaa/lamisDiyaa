@@ -23,6 +23,9 @@
 <div>🔸 connect with me</div><hr>
 
    [linkedin](https://www.linkedin.com/in/lamis-diyaa-2b91a5196/)
+   
+   
+   [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lamis-diyaa-2b91a5196/)
  
 
 
