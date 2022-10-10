@@ -6,7 +6,7 @@
  
  
  <div align="center">Hi there 👋, i'm lamis diyaa</div> 
- 
+ <hr>
 
 <div  align="center">Frontend Developer</div>
                                                  
