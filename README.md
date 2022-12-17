@@ -1,8 +1,8 @@
  <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-hhh
-bb
+
+
  
  <div align="center">Hi there 👋, i'm lamis diyaa</div> 
  <hr>
